@@ -1,9 +1,5 @@
-# 📦 Streamlit App Starter Kit 
-```
-⬆️ (Replace above with your app's name)
-```
-
-Description of the app ...
+# 📦 Streamlit-Langchain App Starter Kit 
+Testing how these two work together
 
 ## Demo App
 
